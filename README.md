@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @leticiahelem
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and javaScript
-- 💞️ I’m looking to collaborate as a front-end developer
 - 📫 Reach me at Linkedin: linkedin.com/in/leticia-helem-670952209
 
 <!---
